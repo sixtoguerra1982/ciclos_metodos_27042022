@@ -1,0 +1,2 @@
+include "menu.rb"
+start
